@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import torch
 import torch.nn as nn
@@ -190,4 +190,4 @@ if img1_file and img2_file:
         st.info("Likely Same Person")
     else:
         st.error("Likely Different Persons")
->>>>>>> 0d427bd6c4c2bceffd0b3d8b5af8b6cd9ddabcb6
+
